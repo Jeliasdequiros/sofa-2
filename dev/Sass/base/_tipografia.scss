@@ -1,0 +1,12 @@
+
+//tamaño tipografia
+$size-base:convertir(16);
+$size-link:convertir(24);
+$size-logo:convertir(140);
+
+$familia:Arial, sans-serif;
+
+html{
+    font-family:$familia;
+    color: $blanco;
+}

@@ -1,0 +1,18 @@
+.derecha{
+    background-color: $azul-oscuro;
+    display: grid;
+        grid-template:{
+            columns: 0.2fr 0.8fr;
+        }
+    &__menu{
+        grid-column: 2/3;
+        display: flex;
+        justify-content: space-between;
+        
+        a{
+            text-decoration: none;
+            color:$blanco;
+            font-size: $size-link;
+        }
+    }
+}

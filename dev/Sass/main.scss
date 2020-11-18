@@ -1,0 +1,20 @@
+// ABSTRACT
+@import "abstract/variables";
+@import "abstract/funciones";
+
+
+//BASE
+@import "base/reset";
+@import "base/tipografia";
+
+//COMPONENTS
+@import "components/botones";
+
+//LAYOUT
+
+@import "layout/grid";
+@import "layout/navegador";
+@import "layout/sectionDrcha";
+@import "layout/sectionIzq";
+
+

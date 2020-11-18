@@ -1,0 +1,12 @@
+.izquierda{
+    background-color: $azul-claro;
+    &__titulo{
+        font-size: $size-logo;
+        margin:0;
+    }
+    &__parrafo{
+        font-size: $size-base;
+        
+    }
+}
+
