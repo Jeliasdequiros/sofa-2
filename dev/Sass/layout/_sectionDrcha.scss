@@ -15,4 +15,9 @@
             font-size: $size-link;
         }
     }
+    &__boton{
+        grid-column: 2/3;
+        align-self: end;
+        justify-self: end;
+    }
 }

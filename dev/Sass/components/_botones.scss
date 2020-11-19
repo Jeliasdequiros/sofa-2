@@ -1,0 +1,15 @@
+.derecha__boton{
+    background-color: $azul-claro;
+    padding: convertir(15) convertir(20);
+    border-radius: convertir(10);
+    color:$blanco;
+    text-decoration:none;
+
+    &:hover{
+        border: convertir(5) solid $azul-boton;
+        color: $azul-boton;
+        box-sizing: content-box;
+        
+    }
+
+}
